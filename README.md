@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @bagheriamin
 - 👀 I’m interested in coding, self-improvement and martial arts.
-- 🌱 I’m currently learning Swift & UIKit
-- 💞️ I’m looking to collaborate on fun projects that help us grow.
+- 🌱 Locked in and learning Swift & UIKit
+- 👷‍♂️ I’m looking to build great projects that help make the world a better place.
 - 📫 Contact me at: contact@aminbagheri.com)
 
 <!---
