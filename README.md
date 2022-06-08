@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding, self-improvement and martial arts.
 - 🌱 Locked in and learning Swift & UIKit
 - 👷‍♂️ I’m looking to build great projects that help make the world a better place.
-- 📫 Contact me at: contact@aminbagheri.com)
+- 📫 Contact me at: contact(@)aminbagheri(.)com
 
 <!---
 bagheriamin/bagheriamin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
